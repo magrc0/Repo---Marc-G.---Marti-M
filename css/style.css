@@ -1,0 +1,11 @@
+ {
+    margin: 2px;
+    padding: 2px;
+
+    text-decoration: none;
+    list-style: none;
+}
+
+title, h1, h2, nav, ul1, p,{
+    text-align: center;
+}
