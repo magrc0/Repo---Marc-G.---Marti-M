@@ -1,4 +1,4 @@
- {
+*{
     margin: 2px;
     padding: 2px;
 
@@ -6,6 +6,6 @@
     list-style: none;
 }
 
-title, h1, h2, nav, ul1, p,{
+title, h1, h2, nav, ul1, p, img{
     text-align: center;
 }
